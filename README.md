@@ -19,3 +19,6 @@ GraphQL이 해결하는 문제점
 
 2. Underfetching
 필요한 데이터보다 적은 데이터를 fetch하는 것을 말합니다. 일반적인 REST API는 여러 URL에서 로딩해야 하지만 GraphQL API는 앱에 필요한 모든 데이터를 단일 request로 가져옵니다. GraphQL을 사용하는 앱은 느린 모바일 네트워크 연결에서도 빠를 수 있습니다.
+
+https://graphql.org/swapi-graphql
+
